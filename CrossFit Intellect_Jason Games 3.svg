@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 196.82 94.85">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #43849f;
+        stroke: #231f20;
+        stroke-miterlimit: 2.61;
+        stroke-width: .89px;
+      }
+
+      .cls-2 {
+        fill: #6bb745;
+      }
+
+      .cls-3 {
+        fill: #019a49;
+      }
+
+      .cls-4 {
+        fill: #231f20;
+        fill-rule: evenodd;
+      }
+
+      .cls-5 {
+        font-size: 37.17px;
+      }
+
+      .cls-5, .cls-6 {
+        fill: #b3b2b3;
+        font-family: ActionForceNormal, 'Action Force';
+      }
+
+      .cls-7 {
+        fill: #46b473;
+      }
+
+      .cls-6 {
+        font-size: 29.43px;
+        letter-spacing: .05em;
+      }
+    </style>
+  </defs>
+  <polygon class="cls-4" points="0 0 196.82 0 196.82 94.85 0 94.85 0 0 0 0"/>
+  <text class="cls-5" transform="translate(29.56 48.75) scale(.81 1)"><tspan x="0" y="0">JASON</tspan></text>
+  <text class="cls-6" transform="translate(56.07 76.98) scale(.62 1)"><tspan x="0" y="0">GAMES</tspan></text>
+  <polygon class="cls-2" points="169.52 41.22 129.51 41.22 125.65 56.28 169.52 56.28 169.52 41.22 169.52 41.22"/>
+  <polygon class="cls-3" points="169.52 20.21 134.89 20.21 130.79 36.2 169.52 36.2 169.52 20.21 169.52 20.21"/>
+  <polygon class="cls-7" points="120.51 76.98 169.52 76.98 169.52 61.3 124.36 61.3 120.51 76.98 120.51 76.98"/>
+  <polygon class="cls-1" points="48.56 63.2 59.06 56.27 47.92 56.09 47.19 47.95 41.66 55.99 30.73 55.82 36.75 63.13 26.85 77.53 40.94 68.23 50.01 79.25 48.56 63.2 48.56 63.2"/>
+</svg>
